@@ -1,2 +1,2 @@
-owner   = "UCU-Estudiante" # CAMBIAR por tu usuario
+owner   = "Guss310"
 mensaje = "Hola desde IaC"
