@@ -25,3 +25,4 @@ Ya existen azurerm 5.x y google 8.x: migrar de versión mayor queda como desafí
 **Al terminar: ejecutar destroy y borrar el bucket de estado.**
 
 Lab realizado por Guss310.
+Pipeline con GitHub Actions.
